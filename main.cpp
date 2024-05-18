@@ -1,5 +1,4 @@
-#include <iostream>
-#include <map>
+#include <bits/stdc++.h>
 #include <fstream>
 
 #ifdef _WIN32
