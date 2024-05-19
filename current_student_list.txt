@@ -1,1 +1,34 @@
-
+	Viewing All the Student Information: 
+		        Student-01
+	=============================================
+	Student ID: 609
+	Name: Syed Mahi Hossen
+	Phone: 01954182407
+	E-mail: hossen2305101609@diu.edu.bd
+	Enrolled courses: 1
+		Course-02: 
+		    Course Name: Mathematics II
+		    Course Code: MAT-102
+	=============================================
+		        Student-02
+	=============================================
+	Student ID: 004
+	Name: Sourov Biswas
+	Phone: 01872934185
+	E-mail: sourov2305101004@diu.edu.bd
+	Enrolled courses: 1
+		Course-02: 
+		    Course Name: Writing and Comprehension
+		    Course Code: ENG-102
+	=============================================
+		        Student-03
+	=============================================
+	Student ID: 012
+	Name: Jaki Adib Khan
+	Phone: 01812076668
+	E-mail: jaki2305101012@diu.edu.bd
+	Enrolled courses: 1
+		Course-02: 
+		    Course Name: Physics II
+		    Course Code: PHY-102
+	=============================================
